@@ -2,10 +2,13 @@
   "name": "mdisk",
    "version": "1.0.0",
    "description": "",
-    "scripts": {
-       "install": "pip install-r requirements.txt",
-       "test": "python -m main",
-    },
+   "directories": {
+    "test": "tests"
+},
+"scripts": {
+    "install": "pip install -r requirements.txt",
+    "test": "python -m main"
+},
     "repository": {
        "type": "git",
        "url": "git+https://github.com/imseldrith/mdisk.git"
