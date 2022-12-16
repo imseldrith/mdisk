@@ -1,8 +1,4 @@
 {
-    "name": "mdisk",
-    "version": "1.0.0",
-   "description": "",
-{
   "name": "mdisk",
    "version": "1.0.0",
    "description": "",
@@ -23,12 +19,3 @@
        "test": "echo \"No test specified\" && exit 1",
        "start": "node index.js"
   },
-11    "repository": {
-       "type": "git",
-       "url": "git+https://github.com/imseldrith/mdisk.git"
-    },
-   "author": "",
-   "license": "ISC",
-    "bugs": {
-        "url": "https://github.com/imseldrith/mdisk/issues"
-   },
